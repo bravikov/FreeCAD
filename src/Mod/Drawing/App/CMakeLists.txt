@@ -79,6 +79,7 @@ SET(Drawing_Templates
     Templates/A4_Landscape_plain.svg
     Templates/A4_Portrait_ISO7200.svg
     Templates/A4_Portrait_plain.svg
+    Templates/A4_Portrait_GOST_2.104.svg
 )
 
 if(MSVC)
